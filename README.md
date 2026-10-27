@@ -39,7 +39,7 @@ This repository contains Python programs created as part of academic assignments
 
 ## Author
 
-* **Name:** Patel Darsh
+* **Name:** Bhavi Modh
 * **Course:** Python Programming
 * **College:** A D Patel Institute of Technology
 
